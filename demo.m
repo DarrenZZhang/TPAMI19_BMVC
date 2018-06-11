@@ -77,7 +77,7 @@ for iter = 1:MaxIter
             C    = sign(C-1/mu*grad); C(C==0) = 1;
         end
         
-        HamDist = 0.5*(L - B'*C); % Hamming distance
+        HamDist = 0.5*(L - B'*C); % Hamming distance referring to "Supervised Hashing with Kernels"
         [~,indx] = min(HamDist,[],2);
         G = sparse(indx,1:N,1,n_cluster,N,N);
     end
