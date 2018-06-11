@@ -11,4 +11,4 @@ This code has been evaluated on Matlab 2013a.
 
 Resources:
 
-We supply Caltech101 dataset downloaded from the following baiduyun link: https://pan.baidu.com/s/1zPA56kNu8ItkFqpzY7IzsA
+We supply the Multi-view Caltech101 dataset downloaded from the following baiduyun link: https://pan.baidu.com/s/1zPA56kNu8ItkFqpzY7IzsA
