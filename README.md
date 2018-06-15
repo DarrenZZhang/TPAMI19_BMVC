@@ -17,9 +17,4 @@ Citation:
 
 If you find our approach useful in your research, please consider citing:
 
-@article{'shen2018tpami',
-    author   = {Zheng Zhang, Li Liu, Fumin Shen and Heng Tao Shen and Ling Shao},
-    journal  = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
-    title    = {Binary Multi-View Clustering},
-    year     = {2018}
-}
+Zheng Zhang, Li Liu, Fumin Shen and Heng Tao Shen and Ling Shao, ``Binary Multi-View Clustering," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018.
