@@ -12,6 +12,7 @@ Resources:
 We supply the Multi-view Caltech101 dataset, which can be downloaded from the following baiduyun link: https://pan.baidu.com/s/1zPA56kNu8ItkFqpzY7IzsA
 
 
+
 Citation:
 
 If you find our approach useful in your research, please consider citing:
