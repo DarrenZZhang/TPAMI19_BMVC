@@ -10,3 +10,15 @@ This code has been evaluated on Matlab 2013a.
 Resources:
 
 We supply the Multi-view Caltech101 dataset, which can be downloaded from the following baiduyun link: https://pan.baidu.com/s/1zPA56kNu8ItkFqpzY7IzsA
+
+
+Citation:
+
+If you find our approach useful in your research, please consider citing:
+
+@article{'shen2018tpami',
+    author   = {Zheng Zhang, Li Liu, Fumin Shen and Heng Tao Shen and Ling Shao},
+    journal  = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
+    title    = {Binary Multi-View Clustering},
+    year     = {2018}
+}
