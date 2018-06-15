@@ -1,19 +1,17 @@
 # Binary Multi-View Clustering (BMVC)
 This is a very simple implementation of our paper:
 
-Binary Multi-View Clustering, 
+#### Binary Multi-View Clustering, 
 
 The details can be found in the TPAMI 2018 paper (release soon). 
 
 This code has been evaluated on Matlab 2013a.
 
-Resources:
+#### Resources:
 
 We supply the Multi-view Caltech101 dataset, which can be downloaded from the [baiduyun link](https://pan.baidu.com/s/1zPA56kNu8ItkFqpzY7IzsA).
 
-
-
-Citation:
+#### Citation:
 
 If you find our approach useful in your research, please consider citing:
 
