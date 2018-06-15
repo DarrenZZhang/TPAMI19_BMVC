@@ -1,6 +1,4 @@
 # BMVC
-Binary Multi-View Clustering
-
 This is a very simple implementation of our paper:
 
 Binary Multi-View Clustering, 
