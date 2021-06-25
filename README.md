@@ -15,7 +15,9 @@ We supply the Multi-view Caltech101 dataset, which can be downloaded from the [b
 
 If you find our approach useful in your research, please consider citing:
 
+```
 Zheng Zhang, Li Liu, Fumin Shen and Heng Tao Shen and Ling Shao, ``Binary Multi-View Clustering," IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 41, no. 7, pp. 1774 - 1782, 2019.
+```
 
 ```
 @article{zhang2019binary,  
