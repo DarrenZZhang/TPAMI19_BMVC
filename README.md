@@ -17,7 +17,7 @@ If you find our approach useful in your research, please consider citing:
 
 Zheng Zhang, Li Liu, Fumin Shen and Heng Tao Shen and Ling Shao, ``Binary Multi-View Clustering," IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 41, no. 7, pp. 1774 - 1782, 2019.
 
-
+···
 @article{zhang2019binary,  
   title={Binary multi-view clustering},  
   author={Zhang, Zheng and Liu, Li and Shen, Fumin and Shen, Heng Tao and Shao, Ling},  
@@ -28,3 +28,4 @@ Zheng Zhang, Li Liu, Fumin Shen and Heng Tao Shen and Ling Shao, ``Binary Multi-
   year={2019},  
   publisher={IEEE}  
 }
+···
