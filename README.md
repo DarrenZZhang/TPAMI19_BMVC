@@ -3,7 +3,7 @@ This is a very simple implementation of our paper:
 
 #### Binary Multi-View Clustering, 
 
-The details can be found in the [TPAMI 2019 paper](http://cfm.uestc.edu.cn/~fshen/TPAMI-BMVC_Final.pdf). 
+The details can be found in the [TPAMI 2019 paper](http://cfm.uestc.edu.cn/~fshen/TPAMI-BMVC_Final.pdf) or [TPAMI website](https://ieeexplore.ieee.org/document/8387526). 
 
 This code has been evaluated on Matlab 2013a.
 
